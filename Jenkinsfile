@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is file branch"
+                    echo "This is master branch"
                 }
             
         }
