@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is new1 branch"
+                    echo "This is master branch"
                 }
             
         }
